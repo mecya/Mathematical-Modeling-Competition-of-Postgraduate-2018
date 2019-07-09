@@ -1,6 +1,8 @@
 # Mathematical-Modeling-Competition-of-Postgraduate-2018
 “华为杯”全国研究生数学建模比赛
-对恐怖袭击事件记录数据的量化分析 三等奖
+
+对恐怖袭击事件记录数据的量化分析 
+三等奖
 
 
 通过构造基于等级全息建模的
